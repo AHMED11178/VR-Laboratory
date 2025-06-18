@@ -1,6 +1,6 @@
-# Chemistry Lab VR
+# Lab VR
 
-Chemistry Lab VR project using the Unity game engine and the Windows Mixed Reality Toolkit.
+Lab VR project using the Unity game engine and the Windows Mixed Reality Toolkit.
 
 Please link refrences to websites or tutorials that you deem important in the refrences section below.
 
